@@ -2,6 +2,9 @@
 
 ![Cover](https://raw.githubusercontent.com/benlau/openstandkit/master/img/cover.jpg)
 
-![Unfold Demo](https://raw.githubusercontent.com/benlau/openstandkit/master/img/unfold-osk-160x90.gif)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benlau/openstandkit/master/img/unfold-osk-160x90.gif"><br>
+  Demonstration
+</p>
 
